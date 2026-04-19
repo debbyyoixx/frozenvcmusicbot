@@ -1,5 +1,5 @@
-<h2 align="center">
-    ──「 ⛦🦋 Frozen Music 🦋⛦ 」──
+see<h2 align="center">
+    ──「 Cherry KO music bot 🌸」──
 </h2>
 
 <p align="center">
